@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SolverXadrez/SolverXadrez.vcxproj" Id="0226ae62-ba6e-42e9-8a5e-8b4e69bca659" />
+</Solution>
